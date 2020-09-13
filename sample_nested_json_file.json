@@ -1,0 +1,28 @@
+{
+    "IFAM":"EQR",
+    "KTM": 1548176931466,
+    "COL": 21,
+    "DATA": [{
+	     "MLrate": "31",
+	     "Crate": [{
+            "key": "k1",
+            "value": "v1"
+         }, {
+             "key": "k2",
+             "value": "v2"
+         }]
+	  },{
+	      "MLrate": "33",
+	     "Crate": [{
+            "key": "k3",
+            "value": "v3"
+         }, {
+             "key": "k4",
+             "value": "v4"
+         }]
+   }],
+   "CHECK": {
+		"Check1": 1,
+		"Check2": "TWO"
+   }
+}
